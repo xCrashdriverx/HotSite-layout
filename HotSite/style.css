@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none ; 
+}
+.botao>a{
+	color: #f1f1f1;
+	font-family: arial;
+	font-size: 20px;
+
+}
+.botao_home>a{
+	color: #8511ff;
+	font-family: arial;
+	font-size: 22px;
+
+}
+
+.head{
+	font-style:italic;
+	font-family: Arial;
+	justify-content:  end;
+	padding: 35px 150px;
+	color: #ff2111;
+	font-size: 13px;   
+}
+.t1>h3{
+	color: #8555ff;
+}
+
+.input{
+	opacity: 50%;
+	background-color:#456422 ;
+	border-color:#456422 ;
+	color: #f1f1f1;
+	
+	
+	
+}
+
+
+#landing{
+	margin: 0 auto;
+	width: 1600px;
+    height: 900px;
+	background-image: url(Hotsite.png);
+}
+.flex{
+	display: flex;
+}
+
+
+.home{
+	display: block;
+	width: 165px;
+	height: 60px;
+	text-align: center;
+	font-size: 22px;
+	padding: 15px 0 0 50px;
+	margin: 85px 0 0 185px;
+	transform: rotate(-5deg);
+	
+	text-align: center;
+	
+}
+.participar{
+	display: block;
+	width: 165px;
+	height: 60px;
+	
+	text-align: center;
+	font-size: 22px;
+	padding: 5px 0 0 50px;
+	margin: 28px 0 0 185px;
+	transform: rotate(-5deg);
+	
+	text-align: center;
+}
+.faça{
+		display: block;
+	width: 165px;
+	height: 60px;
+	
+	text-align: center;
+	font-size: 22px;
+	padding: 5px 0 0 50px;
+	margin: 28px 0 0 185px;
+	transform: rotate(-5deg);
+	 
+	text-align: center;
+
+}
+.regulamentos{
+	display: block;
+	width: 165px;
+	height: 60px;
+	
+	text-align: center;
+	font-size: 22px;
+	padding: 15px 0 0 35px;
+	margin: 30px 0 0 190px;
+	transform: rotate(-5deg);
+	 
+	text-align: center;
+}
+.produtos{
+	display: block;
+	width: 165px;
+	height: 60px;
+	
+	text-align: center;
+	font-size: 22px;
+	padding: 15px 0 0 35px;
+	margin: 38px 0 0 195px;
+	transform: rotate(-5deg);
+	
+	text-align: center;
+
+}
+#shock{
+	font-family: Arial;
+    font-style:italic;
+	font-size: 22px;
+    color: #f1f1f1;
+    margin: 110px 290px;
+
+
+}
+
+
+
